@@ -7,8 +7,6 @@ namespace AppNetGit2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("prueba de git");
-
             Console.WriteLine("Saludo desde local");
         }
     }

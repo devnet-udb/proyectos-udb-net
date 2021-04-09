@@ -6,7 +6,8 @@ namespace AppNetGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! desde el local ");            
+            Console.WriteLine("Hello World! desde el local ");     
+            Console.WriteLine("Hello World! desde el remoto ");  
         }
     }
 }
